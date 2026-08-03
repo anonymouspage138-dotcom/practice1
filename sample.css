@@ -737,6 +737,30 @@ body {
     font-size: 16px;
     margin: 10px;
   }
+  .second-sec {
+    flex-direction: column;
+    justify-content: space-between;
+    line-height: 1.5;
+    padding: 5px 20px;
+    width: 600px;
+    gap: 10px;
+    max-width: 80%;
+    /* text-align: center; */
+  }
+  .second-sec h4 {
+  }
+  .button4 {
+    padding: 10px 150px;
+
+    margin: 10px;
+  }
+  .adjust-1 {
+    font-size: 20px;
+    margin: 0;
+    font-size: 15px;
+    font-weight: 300;
+    /* width: 600px; */
+  }
 }
 
 @media (min-width: 600px) and (max-width: 768px) {
