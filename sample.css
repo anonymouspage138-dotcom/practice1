@@ -747,8 +747,7 @@ body {
     max-width: 80%;
     /* text-align: center; */
   }
-  .second-sec h4 {
-  }
+  
   .button4 {
     padding: 10px 150px;
 
@@ -760,6 +759,23 @@ body {
     font-size: 15px;
     font-weight: 300;
     /* width: 600px; */
+  }
+  .case-content {
+    flex-direction: column;
+  }
+  .images-only {
+    flex-direction: column;
+    padding: 20px 90px;
+    gap: 20px;
+  }
+  .items-in1 {
+    flex-direction: column;
+  }
+  .pod101 {
+    flex-direction: column;
+  }
+  .pod13 {
+    flex-direction: column;
   }
 }
 
