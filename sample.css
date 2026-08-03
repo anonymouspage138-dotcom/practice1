@@ -777,6 +777,19 @@ body {
   .pod13 {
     flex-direction: column;
   }
+  .pod18 {
+    flex-direction: column;
+    margin: 10px;
+  }
+  .pod12333 {
+    margin: 50px;
+  }
+  .pod19 {
+    flex-direction: column;
+  }
+  .inhouse-font {
+    flex-direction: column;
+  }
 }
 
 @media (min-width: 600px) and (max-width: 768px) {
