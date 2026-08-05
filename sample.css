@@ -813,6 +813,12 @@ body {
     gap: 10px;
     
   }
+  .closing-sec101 {
+    flex-direction: column;
+    height: max-content;
+    width: max-content;
+    padding: 6px;
+  }
 }
 @media (min-width: 600px) and (max-width: 768px) {
   .fa-bars {
